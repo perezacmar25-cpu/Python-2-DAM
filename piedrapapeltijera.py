@@ -10,3 +10,14 @@ match (op1, op2):
         print("Gana jugador 1")
     case _:
         print("Opción no válida")
+
+        for _ in range (10) :
+
+            print("Vaya pedazo de clase aburria")
+
+
+
+
+        for i in range(1,50,7):
+
+            print(i)
